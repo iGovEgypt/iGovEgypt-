@@ -1,2 +1,2 @@
 # iGovEgypt-
-iGovEgypt is a UI/UX project that aims to simplify and digitize government services, making them more accessible, transparent, and user-friendly for everyone.
+Redesign of the Egyptian Ministry of Interior’s digital platform for seamless services, secure e-reporting, and official updates
