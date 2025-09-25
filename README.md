@@ -15,7 +15,7 @@ Redesign of the Egyptian Ministry of Interior’s digital platform for seamless 
 
 ---
 
-## Project Plan
+## 🗂️ Project Plan
 
 ### Phase 1: Research & Analysis
 - Benchmarking with other Ministries of Interior websites (UAE, Qatar, Jordan, KSA).  
